@@ -1,3 +1,4 @@
+![ilmnuri-banner](ilmnuri-banner.png)
 # Ilm Nuri
 Ilmnuri sahifasidagi audiolarning metadatalarini tartib bilan saqlangan varianti. 
 
@@ -21,3 +22,7 @@ Tavsiya qilingan media playerlar ro'yxati:
 
 # Aloqa
  [![Mailing list : test](http://img.shields.io/badge/Email-gray.svg?style=for-the-badge&logo=gmail)](mailto:cyberspyde@gmail.com) [![Mailing list : test](http://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/cyberspyde_admin)
+ 
+ # Credits
+ 
+ Barcha audiolar https://ilmnuri.net sahifasidan yuklangan va audiodarsliklar barchasi Ilmnuri faollariga tegishli.
