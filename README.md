@@ -22,7 +22,7 @@ Tavsiya qilingan media playerlar ro'yxati:
 - Samsung music
 - Va har qanday telefonda mavjud media player:)
 
-# Darslikni yuklash va o'rnatish
+# Darslikni yuklash va o'rnatish (Youtube Video)
 
 [![Watch the video](https://img.youtube.com/vi/eP9a-EqSOsg/hqdefault.jpg)](https://www.youtube.com/watch?v=eP9a-EqSOsg)
  
