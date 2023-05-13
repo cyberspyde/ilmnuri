@@ -31,9 +31,6 @@ Tavsiya qilingan media playerlar ro'yxati:
 ## 2) Darslarni alohida bo'lib bo'lib yuklash
 
 [video](videolink)
-
-# Aloqa
- [![Mailing list : test](http://img.shields.io/badge/Email-gray.svg?style=for-the-badge&logo=gmail)](mailto:cyberspyde@gmail.com) [![Mailing list : test](http://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/cyberspyde_admin)
  
 # Contributions
 Proyektga hissa qo'shishni xohlaganlar uchun ma'lum vazifalar mavjud. Bulardan
@@ -43,6 +40,9 @@ Proyektga hissa qo'shishni xohlaganlar uchun ma'lum vazifalar mavjud. Bulardan
 - va boshqalar
 
 Ustoslarimizni darslarini qo'shish niyat bo'lsa, audiolarni tartib bilan yig'ib, ularning metadatasini album bo'limi o'zgartirib, boshqa bo'limlarni tozalagan holatda, proyektdan fork yaratib, pull request qilishingiz mumkin. O'zgarishlarni ko'rib chiqib, master branchga merge qilaman inshaallah. ADM linklarini dasturlashni tushungan birodarlarimiz yaratishlari mumkin, agar link yaratilmagan bo'lsa o'zim linklarni yangilab beraman.
+ 
+ # Aloqa
+ [![Mailing list : test](http://img.shields.io/badge/Email-gray.svg?style=for-the-badge&logo=gmail)](mailto:cyberspyde@gmail.com) [![Mailing list : test](http://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/cyberspyde_admin)
  
  # Credits
  Barcha audiolar https://ilmnuri.net sahifasidan yuklangan va audiodarsliklar barchasi Ilmnuri faollariga tegishli.
