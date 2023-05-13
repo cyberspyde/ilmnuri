@@ -24,7 +24,7 @@ Tavsiya qilingan media playerlar ro'yxati:
 
 # Darslikni yuklash va o'rnatish
 
-[![Watch the video](https://img.youtube.com/vi/eP9a-EqSOsg/default.jpg)]([videolink](https://www.youtube.com/watch?v=eP9a-EqSOsg))
+[![Watch the video](https://img.youtube.com/vi/eP9a-EqSOsg/hqdefault.jpg)](https://www.youtube.com/watch?v=eP9a-EqSOsg)
  
 # Contributions
 Proyektga hissa qo'shishni xohlaganlar uchun ma'lum vazifalar mavjud. Bulardan
