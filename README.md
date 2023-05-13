@@ -16,19 +16,13 @@ Shu kamchiliklarni hisobga olgan holatda, Ilmnuri darsliklaridan maksimal foydal
 Bundan maqsad, endi bu darsliklar to'plami bilan, har bir foydalanuvchi, darslikni yuklab olgandan so'ng darsliklarni xohlagan media player orqali, ajratilgan album lar yordamida tartib bilan tinglashi mumkin bo'ladi. Eshitilgan darslikni eslab qolishga kelsak, media playerlar bunday qobiliyatga ega, va ular o'z kategoriyasida (playlistda) bo'lgan barcha darslarni ketma-ket qo'yib keta oladi.
 
 Tavsiya qilingan media playerlar ro'yxati:
-- AIMP
+- Mi Music
 - Jet Audio
 - Musicolet
 - Samsung music
 - Va har qanday telefonda mavjud media player:)
 
 # Darslikni yuklash va o'rnatish
-
-## 1) Barcha darslarni bir urinishda yuklash (size ~ 17GB)
-
-[video](https://www.youtube.com/watch?v=DhcPfvAuBM8)
-
-## 2) Darslarni alohida bo'lib bo'lib yuklash
 
 [video](videolink)
  
