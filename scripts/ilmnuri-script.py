@@ -11,7 +11,8 @@ for f in os.listdir('audio\\audio\\Abdulloh domla\\'):
     for t in os.listdir('audio\\audio\\Abdulloh domla\\'+f):
         files.append(base_url+quote(f)+"/"+quote(t))
 
-    with open(f'audio\\ADM\\ADM-{f}.txt', 'w') as file:
+    os.makedirs(f'audio\\ADM\\{f}')
+    with open(f'audio\\ADM\\{f}\\ADM.txt', 'w') as file:
         file.write('\n'.join(files))
 
 
