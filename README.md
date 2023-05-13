@@ -24,12 +24,6 @@ Tavsiya qilingan media playerlar ro'yxati:
 
 # Darslikni yuklash va o'rnatish
 
-## 1) Barcha darslarni bir urinishda yuklash (size ~ 17GB)
-
-[video](https://www.youtube.com/watch?v=DhcPfvAuBM8)
-
-## 2) Darslarni alohida bo'lib bo'lib yuklash
-
 [video](videolink)
  
 # Contributions
