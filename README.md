@@ -7,6 +7,8 @@ Ilmnuri sahifasidagi audiolarning metadatalarini tartib bilan saqlangan varianti
 - Dastur bir darslikni eshitgandan so'ng shu mavzudagi keyingi darsni qo'yib keta olmaydi
 - Eshitilgan darsliklarni ajratish yoki belgilash imkoniyati mavjud emas
 
+# Afzalliklar
+
 Shu kamchiliklarni hisobga olgan holatda, Ilmnuri darsliklaridan maksimal foydalanishni xohlovchilar uchun, darsliklarni tartib bilan kategoriyalab, har bir darslikni **metadatalarini** mos ravishda belgilab chiqdim. 
 
 ![ilmnuri.png](pictures/ilmnuri.png)
